@@ -54,4 +54,20 @@ Connect with me:
      </a>
     </div>
 </div>
+<br/>
+**Github Stats**
+
+<br/>
+<div>
+    <img src='https://github-profile-trophy.vercel.app/?username=Vishal0312&theme=radical&no-frame=false&no-bg=false&margin-w=4' alt="gitTrophy"
+</div>
+<br/>
+    <div>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Vishal0312&theme=dark&hide_border=false)' alt="gitTrophy"
+</div>
+<br/>
+        <div>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal0312&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact' alt="gitTrophy"
+</div>
+
   
